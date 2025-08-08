@@ -52,7 +52,14 @@ header h1 {
     padding: 20px;
 }
 
-
+.cards img {
+    width: 80%;
+    height: 80%;
+    border-radius: 5px;
+    object-fit: cover;
+    display: block;
+    margin-bottom: 15px;
+}
 
 
 .product {
@@ -366,5 +373,6 @@ footer a:hover {
     margin-bottom: 30px;
     color: #333;
 }
+
 
 
