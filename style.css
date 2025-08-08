@@ -44,32 +44,15 @@ header h1 {
     padding: 20px;
 }
 
-/*
+
 .cards {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 20px;
     padding: 20px;
 }
-*/
 
-.cards {
-  display: flex;
-  overflow-x: auto;
-  scroll-behavior: smooth;
-  padding: 1rem;
-  gap: 1rem; /* space between cards */
-}
 
-.product {
-  min-width: 300px;
-  flex: 0 0 auto;
-  border: 1px solid #ccc;
-  border-radius: 10px;
-  padding: 1rem;
-  background-color: #fff;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-}
 
 
 .product {
@@ -390,3 +373,4 @@ footer a:hover {
     margin-bottom: 30px;
     color: #333;
 }
+
