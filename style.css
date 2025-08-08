@@ -79,7 +79,7 @@ header h1 {
 }
 
 .marketing-content {
-    width: 100%;
+    width: 90%;
     height: auto;
     border-color: #ccc;
     border-style: groove;
@@ -424,3 +424,4 @@ footer a:hover {
     margin-bottom: 30px;
     color: #333;
 }
+
